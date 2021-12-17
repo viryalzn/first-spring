@@ -6,6 +6,7 @@
 
 	<modules>
 		<module>springboot-app</module>
+		<module>product-api</module>
 	</modules>
 
 	<parent>
